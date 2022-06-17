@@ -1,0 +1,6 @@
+projectKey=SidiDemoProject
+serverUrl=http://localhost:9000/sonar
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/sonar/dashboard?id=SidiDemoProject
+ceTaskId=AYFzV2osIzZhM4flUF9M
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AYFzV2osIzZhM4flUF9M
